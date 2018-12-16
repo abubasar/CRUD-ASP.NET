@@ -1,0 +1,26 @@
+<h3>Add Product</h3>
+<form [formGroup]="productForm" (ngSubmit)="save()">
+<table>
+  <tr>
+    <td>Name</td>
+    <td>
+    <input type="text" formControlName="name"/>
+    <div *ngIf="productForm.get('name').hasError('required')">This field is required</div>
+    </td>
+    <td>Price</td>
+    <td>
+    <input type="number" formControlName="price"/>
+    <div *ngIf="productForm.get('price').hasError('required')">This field is required</div>
+    </td>
+    <td>Quantity</td>
+    <td>
+    <input type="number" formControlName="quantity"/>
+    <div *ngIf="productForm.get('quantity').hasError('required')">This field is required</div>
+    </td>
+    <td>&nbsp</td>
+    <td>
+    <input type="submit" value="Save"/>
+    </td>
+  </tr>
+</table>
+</form>

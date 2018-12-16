@@ -1,0 +1,14 @@
+C:\Users\FS\source\repos\sqlitedbtest\sqlitedbtest\bin\Debug\netcoreapp2.1\sqlitedbtest.deps.json
+C:\Users\FS\source\repos\sqlitedbtest\sqlitedbtest\bin\Debug\netcoreapp2.1\sqlitedbtest.runtimeconfig.json
+C:\Users\FS\source\repos\sqlitedbtest\sqlitedbtest\bin\Debug\netcoreapp2.1\sqlitedbtest.runtimeconfig.dev.json
+C:\Users\FS\source\repos\sqlitedbtest\sqlitedbtest\bin\Debug\netcoreapp2.1\sqlitedbtest.dll
+C:\Users\FS\source\repos\sqlitedbtest\sqlitedbtest\obj\Debug\netcoreapp2.1\sqlitedbtest.csproj.CoreCompileInputs.cache
+C:\Users\FS\source\repos\sqlitedbtest\sqlitedbtest\obj\Debug\netcoreapp2.1\sqlitedbtest.RazorAssemblyInfo.cache
+C:\Users\FS\source\repos\sqlitedbtest\sqlitedbtest\obj\Debug\netcoreapp2.1\sqlitedbtest.RazorAssemblyInfo.cs
+C:\Users\FS\source\repos\sqlitedbtest\sqlitedbtest\obj\Debug\netcoreapp2.1\sqlitedbtest.AssemblyInfoInputs.cache
+C:\Users\FS\source\repos\sqlitedbtest\sqlitedbtest\obj\Debug\netcoreapp2.1\sqlitedbtest.AssemblyInfo.cs
+C:\Users\FS\source\repos\sqlitedbtest\sqlitedbtest\obj\Debug\netcoreapp2.1\sqlitedbtest.RazorTargetAssemblyInfo.cache
+C:\Users\FS\source\repos\sqlitedbtest\sqlitedbtest\bin\Debug\netcoreapp2.1\sqlitedbtest.pdb
+C:\Users\FS\source\repos\sqlitedbtest\sqlitedbtest\obj\Debug\netcoreapp2.1\sqlitedbtest.dll
+C:\Users\FS\source\repos\sqlitedbtest\sqlitedbtest\obj\Debug\netcoreapp2.1\sqlitedbtest.pdb
+C:\Users\FS\source\repos\sqlitedbtest\sqlitedbtest\obj\Debug\netcoreapp2.1\sqlitedbtest.csprojAssemblyReference.cache
